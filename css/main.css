@@ -280,7 +280,7 @@ a {
   color: #555;
   text-decoration: none;
   outline: none;
-  border-bottom: 1px solid #999;
+  color: -webkit-link;
   word-wrap: break-word;
 }
 a:hover {
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3efb9a;
+  background: #f6aa3e;
 }
 .links-of-blogroll {
   font-size: 13px;
